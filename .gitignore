@@ -1,0 +1,12 @@
+*.o
+*.ko
+*.mod
+*.mod.*
+.*.cmd
+.json
+.tmp_versions/
+Module.symvers
+modules.order
+/dev/vmstat_ioctl
+.vscode/c_cpp_properties.json
+user_program/user_program
